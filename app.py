@@ -1,1 +1,2 @@
-print("Hello git");
+print("Hello git")
+print("another line")
