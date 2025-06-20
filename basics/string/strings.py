@@ -5,6 +5,8 @@ Welcome back to our company"""
 print(normalString)
 print(multiLineString)
 
+print("Hello there \"MY IOHIAHEFOUABEUF\"") #Escape character useCase
+
 print("TRAVERSING STRING THROUGH INDEXING")
 # Traversing a string
 print(normalString[1]) # will print the letter "h" in the index position 1
