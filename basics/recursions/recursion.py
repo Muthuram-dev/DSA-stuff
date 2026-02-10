@@ -1,6 +1,6 @@
 def addition(n):
     if n > 100:
-        return ""
+        return 
     print(n)
     addition(n+1)
 addition(1)
